@@ -1,0 +1,59 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------											    Mini-Instructivo de Unix
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+			---> Abre una termnial.
+			---> ls/dir    "Comando para listar lo que hay en un directorio. 
+			---> mkdir     "|Nombre|"Hace un directorio con el nombre"".
+			---> cd        "|Nombre|"Cambiar directorio".
+			---> pwd       "Directorio Actual".
+			---> rm        "Buscar Archivo".
+			---> cd ..     "Directorio Anterior".
+			---> cd/../../ "Regresar directorio consecutivos".
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+											Mini-Instrucitivo de Vim
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+
+
+
+			---> Abre otra terminal 
+			---> cd |Nombre| "Cambiar directorio" 
+			---> vi |Nombre| "Crear Archivo" 
+			---> Esc ( Tecla ) "Salir Comando" 
+			---> x  "Borrar"
+			---> :wq "Guardar y salir" 
+			---> :w  "Guardar"
+			---> :q!  "Salir y no guardar nada"
+			---> :$  "Ir a la última línea" 
+			---> :100 "Ir a la línea 100"
+			---> o   "Abre rengón abajo"
+			---> dd "Borrar línea donde estoy"
+			---> /Palabra busca la palabra"
+			---> m "Ṕródxima aparación de la palabra"
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 											Mini- Instructivo de Git/GItHUb
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+			- Entrar a su cuenta en github.com			
+			- Crear repositorio " Paradigmas de Programación" 
+
+			--> Terminal
+			- Clonar repositorio: git clone |________| (URL del reposiotorio)
+			- Subir al directorio del repositorio y crear o copiar el archivo que vamos a subir a la nube
+			- Añadir: git add |____| (Archivo)
+			- Descripción . git commit -m "Manual Unix/VI/GIT"
+			- SUbirlo: git push
+
+			*Password es un TOKEN de github
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
